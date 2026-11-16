@@ -1,0 +1,1 @@
+sudo dnf install perl-Image-Exiftool perl-Archive-Zip
